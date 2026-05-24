@@ -26,7 +26,6 @@ O jogo possui mecânicas diferentes por fase, incentivando o aprendizado por mei
 
 * **Arara Azul:** Personagem-guia que fornece feedback positivo, dicas e instruções.
 * **Sistema de Avaliação:** O progresso do jogador é avaliado por desempenho, concedendo de 1 a 3 estrelas.
-* **Álbum de Conquistas:** Registra todas as medalhas obtidas nas fases para motivar a progressão.
 * **Acessibilidade e Interface:** Pixel art 2D colorida com contrastes suaves, interface intuitiva adaptada para toques simples em dispositivos móveis e cliques no desktop.
 
 ## 🛠️ Tecnologias Utilizadas

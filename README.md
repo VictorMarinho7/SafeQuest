@@ -39,4 +39,4 @@ Nenhuma instalação complexa é necessária.
 
 1. Acesse o link abaixo:
    ```bash
-    (https://safequest.netlify.app/)
+    https://safequest.netlify.app/

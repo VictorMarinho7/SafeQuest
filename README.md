@@ -37,6 +37,6 @@ O jogo possui mecânicas diferentes por fase, incentivando o aprendizado por mei
 
 Nenhuma instalação complexa é necessária.
 
-1. Faça o clone do repositório:
+1. Acesse o link abaixo:
    ```bash
-   git clone [https://github.com/VictorMarinho7/SafeQuest.git](https://github.com/VictorMarinho7/SafeQuest.git)
+    (https://safequest.netlify.app/)

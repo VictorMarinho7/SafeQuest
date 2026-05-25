@@ -33,7 +33,7 @@ O jogo possui mecânicas diferentes por fase, incentivando o aprendizado por mei
 * **HTML5 & CSS3:** Estruturação e estilização das interfaces, com paletas de cores específicas para a ambientação de cada fase (tons quentes para Saúde, terrosos para Ambiente e frios/metálicos para Segurança).
 * **JavaScript (Vanilla):** Lógica principal, mecânicas de *drag and drop* (arrastar e soltar), cronômetros e manipulação de áudio.
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Jogar
 
 Nenhuma instalação complexa é necessária.
 

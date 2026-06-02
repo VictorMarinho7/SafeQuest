@@ -315,7 +315,7 @@ window.onload = () => {
             macaw_triste: 'assets/arara_triste_padrao.png',
             macaw_curiosa: 'assets/arara_curiosa_padrao.png',
             book_closed: 'assets/livro_fechado_fase2_padrao.png',
-            book_open: 'assets/livro_aberto.png' 
+            book_open: 'assets/livro-aberto2.0.jpeg' 
         },
         // Alto Contraste (Mapeado para TEA)
         'high-contrast': {

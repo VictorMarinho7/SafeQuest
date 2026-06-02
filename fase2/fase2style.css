@@ -178,7 +178,7 @@ body {
 
 /* --- ESTILOS DO LIVRO/GUIA (CORRIGIDO PARA GRID 3X6 COMPACTO) --- */
 .book-container {
-	background-image: url('assets/livro-aberto.png');
+	background-image: url('assets/livro-aberto2.0.jpeg');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -265,7 +265,10 @@ body {
 }
 #book-navigation .nav-button:hover { background-color: #6b4c2d; }
 #book-navigation .nav-button:disabled { background-color: #cccccc; cursor: not-allowed; opacity: 0.5; }
-#book-navigation #page-indicator { color: white; }
+#book-navigation #page-indicator { 
+    background-color: #a06b3e; color: white; padding: 8px 16px; border-radius: 8px;
+	font-weight: bold; transition: background-color 0.2s;
+}
 
 /* Posição dos elementos fixos */
 #book-button { 
